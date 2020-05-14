@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "251140395460",
+    "firebase_url": "https://speakwithme-1f228.firebaseio.com",
+    "project_id": "speakwithme-1f228",
+    "storage_bucket": "speakwithme-1f228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251140395460:android:923149bd33dd9235",
+        "android_client_info": {
+          "package_name": "com.example.makkahlap.speakwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251140395460-vub9j0000r7vk290551vadcgkjhjd3oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrPm4s3xi95SMT-EmUgJa5LYqMSLU0Gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
